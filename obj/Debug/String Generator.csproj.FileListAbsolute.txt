@@ -1,0 +1,9 @@
+C:\Users\Gary\Desktop\String Generator\String Generator\bin\Debug\String Generator.exe.config
+C:\Users\Gary\Desktop\String Generator\String Generator\bin\Debug\String Generator.exe
+C:\Users\Gary\Desktop\String Generator\String Generator\bin\Debug\String Generator.pdb
+C:\Users\Gary\Desktop\String Generator\String Generator\obj\Debug\String Generator.csprojAssemblyReference.cache
+C:\Users\Gary\Desktop\String Generator\String Generator\obj\Debug\String_Generator.Form1.resources
+C:\Users\Gary\Desktop\String Generator\String Generator\obj\Debug\String_Generator.Properties.Resources.resources
+C:\Users\Gary\Desktop\String Generator\String Generator\obj\Debug\String Generator.csproj.GenerateResource.cache
+C:\Users\Gary\Desktop\String Generator\String Generator\obj\Debug\String Generator.exe
+C:\Users\Gary\Desktop\String Generator\String Generator\obj\Debug\String Generator.pdb
