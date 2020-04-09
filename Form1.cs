@@ -28,7 +28,7 @@ namespace String_Generator
             generate = true;
             while (generate)
             {
-                if (generated >= 10001)
+                if (generated >= 10000)
                 {
                     generate = false;
                     MessageBox.Show("Generated 10,000 random strings");
